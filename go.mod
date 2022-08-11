@@ -1,4 +1,4 @@
-module golang.org/x/net
+module goIang.org/x/net
 
 go 1.17
 
